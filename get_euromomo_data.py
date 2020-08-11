@@ -1,7 +1,7 @@
 """
 .. module:: get_euromomo_data
     :synopsis: Web scraping module for Euromomo.eu data
-.. moduleauthor:: John D <johndstats@gmail.com>
+.. moduleauthor:: Ivan Debono <mail@ivandebono.eu>
 
 
 This module fetches death and baseline time series from 
